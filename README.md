@@ -3,7 +3,7 @@ As part of the October month codebaiscs resume challenge, I have performed data 
 
 Challenge [Link](https://codebasics.io/event/codebasics-resume-project-challenge)
 
-Live Dashboard [Link](https://www.novypro.com/project/atliq-mart---supply-chain-analysis)
+Live Dashboard [Link](https://www.novypro.com/project/atliq-mart-supply-chain-analysis-codebasics-october-resume-challenge)
 
 ## Problem statement
 
