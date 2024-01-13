@@ -28,10 +28,22 @@ Create relevant insights that are not provided in the metric list/stakeholder me
   <img src="https://github.com/Anjani204/Supply-Chain-Analytics/blob/main/resources/data_model_1.png" width="300">
 </p>
 
-## Dashboard 
+## Product & Customer Insights 
 
 <p align="center">
   <img src="https://github.com/Anjani204/Supply-Chain-Analytics/blob/main/resources/Product%20%26%20Customer%20Insights.png" height="400">
+</p>
+
+## Monthly Metrics 
+
+<p align="center">
+  <img src="https://github.com/Anjani204/Supply-Chain-Analytics/blob/main/resources/Monthly_Metrics_view.png" height="400">
+</p>
+
+## Metrics on Daily Basis
+
+<p align="center">
+  <img src="https://github.com/Anjani204/Supply-Chain-Analytics/blob/main/resources/Metrics%20on%20Daily%20Basics.png" height="400">
 </p>
 
 
